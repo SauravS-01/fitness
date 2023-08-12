@@ -1,7 +1,6 @@
-# _[React Fitness App...](https://fitness-club-app.web.app/)_
-![Screenshot (77)](https://user-images.githubusercontent.com/90378786/198332094-857d1b00-b0cf-421e-9530-4d258081567e.png)
+# _[React Fitness App...]
 
-_[Firebase Live Link](https://fitness-club-app.web.app/)_
+
 
  _[Netlify Live Link](https://fitness-club-app.netlify.app/)_
 
@@ -27,7 +26,7 @@ Being physically active can improve your brain health, help manage weight, reduc
 # _About Project_
 
 This is an individual project. Everything is created by me. This website is not a clone of any other website. This is a simple body exercise app. It contains more than a thousand exercises.
-I have also created it's api. You can refer to the repo for more details. [(Server)](https://github.com/SaurabhSinghRbz/fitness-club-server)
+
 
 
 ## Features of website :
@@ -40,42 +39,10 @@ I have also created it's api. You can refer to the repo for more details. [(Serv
 - On the exercise information page, you will see similar exercises and similar equipment exercises.
 
 
-## Instructions to browse the project :
 
-First you need to clone or download this project from here.
 
-https://github.com/SaurabhSinghRbz/fitness-react-project.git
 
-After cloning the project you need to install its dependencies, for this run this command.
-Do this in both folders (client and Server)
 
-```
-npm i
-```
-
-or
-
-```
-npm install
-```
-
-If you are visiting after long time and you are facing issue with installing the dependencies, then you can use this command.
-
-```
-npm i --force
-```
-
-or
-
-```
-npm i --legacy-peer-deps
-```
-
-After successful clone, run this command to run it on localhost server
-
-```
-npm start
-```
 
 ## Technologies Used :
 
@@ -88,40 +55,8 @@ Technologies that I used to build this project are listed below, if you are not 
 - [CSS-3](https://www.w3schools.com/css/default.asp)
 
 
-## _Here are some of my website screenshots..._
-
-### Landing Page 👇
-![Screenshot (77)](https://user-images.githubusercontent.com/90378786/198342605-b757c9a1-0a6e-4c38-b426-6bf59b5aff9c.png)
-
-### Slider 👇
-![Screenshot (78)](https://user-images.githubusercontent.com/90378786/198342731-14ab9980-f9b3-4cab-a766-6d5e86d226ac.png)
-
-### Seaerch and Categoery Part 👇
-![Screenshot (79)](https://user-images.githubusercontent.com/90378786/198342981-a039f0dc-33f2-473e-b907-f83454365a9f.png)
-
-### Exercises 👇
-![Screenshot (80)](https://user-images.githubusercontent.com/90378786/198342987-1a440609-f162-4990-bc0e-129ee2d27087.png)
-
-### Exercise Details 👇
-![Screenshot (81)](https://user-images.githubusercontent.com/90378786/198343461-5b27708c-a9bf-407f-8f77-3bcfed76401a.png)
-
-### Related Videos 👇
-![Screenshot (82)](https://user-images.githubusercontent.com/90378786/198343483-710bab3b-43db-4a9e-b76b-b7b3c123737c.png)
-
-### Related Exercises 👇
-![Screenshot (83)](https://user-images.githubusercontent.com/90378786/198343512-af019833-161e-4282-bc67-35773ed3ccf3.png)
-
-### Related Equipment Exercises 👇
-![Screenshot (84)](https://user-images.githubusercontent.com/90378786/198343523-0fbfa632-bbe3-4d60-97d9-c0da290ddb4a.png)
 
 
 
-
-
-## Feedback :
-
-If you think of anything that could have been better, share your thoughts, and I'll be happy to work on that.
-
-# _Thank you...._
 
 
