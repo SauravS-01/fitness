@@ -2,7 +2,7 @@
 
 
 
- _[Netlify Live Link]_
+ _[Netlify Live Link](https://64d797be763dcc0c16250c51--lively-semifreddo-38df7d.netlify.app/)
 
 # _Fitness_
 Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities. Physical fitness is generally achieved through proper nutrition, moderate-vigorous physical exercise, and sufficient rest along with a formal recovery plan.
